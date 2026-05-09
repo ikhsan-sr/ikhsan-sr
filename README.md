@@ -6,7 +6,7 @@ Web Developer
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [ikhsan.ssr@gmail.com](mailto:ikhsan.ssr@gmail.com)
-* 🚀  I'm currently working on [Sribu](http://sribu.com)
+* 🚀  I'm currently working on [Avonetiq](https://avonetiq.com)
 
 ### Skills
 
